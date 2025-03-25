@@ -16,3 +16,7 @@ Aplicación de escritorio para clasificar pacientes y evaluar riesgos de enferme
 1. **Requisitos:**
    - Visual Studio 2019 o superior.
    - .NET Framework 8.0.0+.
+
+## 🟩 Login
+1. **Requisitos:**
+   - user: admin, password: 123
